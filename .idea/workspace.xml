@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="684356f2-f571-4fe9-af59-920ca85f745c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/add_to_cart.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart.php" beforeDir="false" afterPath="$PROJECT_DIR$/cart.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/data/products.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/data/products.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/head.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/head.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/login.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
+  <component name="ProjectId" id="1aqoiIdXYsT7Axbi8tyGssb1mhx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="684356f2-f571-4fe9-af59-920ca85f745c" name="Default Changelist" comment="" />
+      <created>1587472610854</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587472610854</updated>
+      <workItem from="1587472612328" duration="476000" />
+      <workItem from="1587473089952" duration="530000" />
+      <workItem from="1587483199529" duration="629000" />
+      <workItem from="1587485024155" duration="24000" />
+      <workItem from="1587551984967" duration="8963000" />
+      <workItem from="1587561414082" duration="7038000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="474" y="103" width="721" height="707" key="#PHP" timestamp="1587472645004">
+      <screen x="0" y="27" width="1680" height="861" />
+    </state>
+    <state x="474" y="103" width="721" height="707" key="#PHP/0.27.1680.861@0.27.1680.861" timestamp="1587472645004" />
+    <state x="693" y="274" width="524" height="499" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587472902373">
+      <screen x="0" y="27" width="1920" height="996" />
+    </state>
+    <state x="693" y="274" width="524" height="499" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1920.996@0.27.1920.996" timestamp="1587472902373" />
+    <state x="743" y="282" width="424" height="484" key="FileChooserDialogImpl" timestamp="1587473087429">
+      <screen x="0" y="27" width="1920" height="996" />
+    </state>
+    <state x="743" y="282" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.996@0.27.1920.996" timestamp="1587473087429" />
+    <state x="533" y="237" width="604" height="543" key="NewPhpClassDialog" timestamp="1587564154421">
+      <screen x="0" y="27" width="1680" height="966" />
+    </state>
+    <state x="533" y="237" width="604" height="543" key="NewPhpClassDialog/0.27.1680.966@0.27.1680.966" timestamp="1587564154421" />
+    <state x="647" y="435" width="375" height="147" key="NewPhpFileDialog" timestamp="1587564158489">
+      <screen x="0" y="27" width="1680" height="966" />
+    </state>
+    <state x="647" y="435" width="375" height="147" key="NewPhpFileDialog/0.27.1680.966@0.27.1680.966" timestamp="1587564158489" />
+  </component>
+</project>
